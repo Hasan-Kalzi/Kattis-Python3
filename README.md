@@ -3,10 +3,7 @@ Solutions for Kattis problems in Python 3 language.
 
 ## List of problems
 ### A
-#### Aaah!
-[Problem](https://open.kattis.com/problems/aaah)
-
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Aaah.py)
+* **Aaah!** [Problem](https://open.kattis.com/problems/aaah) [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Aaah.py)
 ### B
 ### C
 ### D
