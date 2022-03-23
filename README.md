@@ -17,6 +17,8 @@ Solutions for Kattis problems in Python 3 language.
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Apaxiaaaaaaaaaaaans.py)
 * **A Rational Sequence 2** the link to the [Problem](https://open.kattis.com/problems/rationalsequence2)  and here the
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_Rational_Sequence_2.py)
+* **A Real Challenge** the link to the [Problem](https://open.kattis.com/problems/areal)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_Real_Challenge.py)
 ### B
 ### C
 ### D
