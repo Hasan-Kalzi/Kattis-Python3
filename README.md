@@ -13,6 +13,8 @@ Solutions for Kattis problems in Python 3 language.
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Alphabet_Spam.py)
 * **A New Alphabet** the link to the [Problem](https://open.kattis.com/problems/anewalphabet)  and here the
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_New_Alphabet.py)
+* **Apaxiaaaaaaaaaaaans!** the link to the [Problem](https://open.kattis.com/problems/apaxiaaans)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Apaxiaaaaaaaaaaaans.py)
 ### B
 ### C
 ### D
