@@ -11,6 +11,8 @@ Solutions for Kattis problems in Python 3 language.
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Add_Two_Numbers.py)
 * **Alphabet Spam** the link to the [Problem](https://open.kattis.com/problems/alphabetspam)  and here the
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Alphabet_Spam.py)
+* **A New Alphabet** the link to the [Problem](https://open.kattis.com/problems/anewalphabet)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_New_Alphabet.py)
 ### B
 ### C
 ### D
