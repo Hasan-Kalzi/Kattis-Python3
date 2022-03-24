@@ -44,4 +44,6 @@ Solutions for Kattis problems in Python 3 language.
 ### X
 ### Y
 ### Z
+* **Zoom** the link to the [Problem](https://open.kattis.com/problems/zoom)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Zoom.py)
 
