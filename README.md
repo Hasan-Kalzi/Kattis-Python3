@@ -21,6 +21,8 @@ Solutions for Kattis problems in Python 3 language.
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_Real_Challenge.py)
 * **Arm Coordination** the link to the [Problem](https://open.kattis.com/problems/armcoordination)  and here the
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Arm_Coordination.py)
+* **Arrangement** the link to the [Problem](https://open.kattis.com/problems/upprodun)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Arrangement.py)
 ### B
 ### C
 ### D
