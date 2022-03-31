@@ -54,6 +54,9 @@ Solutions for Kattis problems in Python 3 language.
 ### N
 ### O
 ### P
+* **Pachyderm Peanut Packing** the link to the [Problem](https://open.kattis.com/problems/pachydermpeanutpacking) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pachyderm_Peanut_Packing.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pachyderm_Peanut_Packing.py)
 ### Q
 ### R
 ### S
