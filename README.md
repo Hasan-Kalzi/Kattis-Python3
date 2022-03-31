@@ -3,30 +3,42 @@ Solutions for Kattis problems in Python 3 language.
 
 ## List of problems
 ### A
-* **Aaah!** the link to the [Problem](https://open.kattis.com/problems/aaah) and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Aaah.py)
-* **ACM Contest Scoring** the link to the [Problem](https://open.kattis.com/problems/acm)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/ACM_Contest_Scoring.py)
-* **Add Two Numbers** the link to the [Problem](https://open.kattis.com/problems/addtwonumbers)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Add_Two_Numbers.py)
-* **Alphabet Spam** the link to the [Problem](https://open.kattis.com/problems/alphabetspam)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Alphabet_Spam.py)
-* **A New Alphabet** the link to the [Problem](https://open.kattis.com/problems/anewalphabet)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_New_Alphabet.py)
-* **Apaxiaaaaaaaaaaaans!** the link to the [Problem](https://open.kattis.com/problems/apaxiaaans)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Apaxiaaaaaaaaaaaans.py)
-* **A Rational Sequence 2** the link to the [Problem](https://open.kattis.com/problems/rationalsequence2)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_Rational_Sequence_2.py)
-* **A Real Challenge** the link to the [Problem](https://open.kattis.com/problems/areal)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/A_Real_Challenge.py)
-* **Arm Coordination** the link to the [Problem](https://open.kattis.com/problems/armcoordination)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Arm_Coordination.py)
-* **Arrangement** the link to the [Problem](https://open.kattis.com/problems/upprodun)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Arrangement.py)
-* **ASCII Addition** the link to the [Problem](https://open.kattis.com/problems/asciiaddition)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/ASCII_Addition.py)
-* **Astrological Sign** the link to the [Problem](https://open.kattis.com/problems/astrologicalsign)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Astrological_Sign.py)
+* **Aaah!** the link to the [Problem](https://open.kattis.com/problems/aaah) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Aaah.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Aaah.py)
+* **ACM Contest Scoring** the link to the [Problem](https://open.kattis.com/problems/acm) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ACM_Contest_Scoring.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ACM_Contest_Scoring.py)
+* **Add Two Numbers** the link to the [Problem](https://open.kattis.com/problems/addtwonumbers) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Add_Two_Numbers.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Add_Two_Numbers.py)
+* **Alphabet Spam** the link to the [Problem](https://open.kattis.com/problems/alphabetspam) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Alphabet_Spam.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Alphabet_Spam.py)
+* **A New Alphabet** the link to the [Problem](https://open.kattis.com/problems/anewalphabet) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_New_Alphabet.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_New_Alphabet.py)
+* **Apaxiaaaaaaaaaaaans!** the link to the [Problem](https://open.kattis.com/problems/apaxiaaans) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Apaxiaaaaaaaaaaaans.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Apaxiaaaaaaaaaaaans.py)
+* **A Rational Sequence 2** the link to the [Problem](https://open.kattis.com/problems/rationalsequence2) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Rational_Sequence_2.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Rational_Sequence_2.py)
+* **A Real Challenge** the link to the [Problem](https://open.kattis.com/problems/areal) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Real_Challenge.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Real_Challenge.py)
+* **Arm Coordination** the link to the [Problem](https://open.kattis.com/problems/armcoordination) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arm_Coordination.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arm_Coordination.py)
+* **Arrangement** the link to the [Problem](https://open.kattis.com/problems/upprodun) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arrangement.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arrangement.py)
+* **ASCII Addition** the link to the [Problem](https://open.kattis.com/problems/asciiaddition) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ASCII_Addition.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ASCII_Addition.py)
+* **Astrological Sign** the link to the [Problem](https://open.kattis.com/problems/astrologicalsign) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Astrological_Sign.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Astrological_Sign.py)
 ### B
 ### C
 ### D
@@ -55,6 +67,7 @@ Solutions for Kattis problems in Python 3 language.
 ### X
 ### Y
 ### Z
-* **Zoom** the link to the [Problem](https://open.kattis.com/problems/zoom)  and here the
-[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Zoom.py)
+* **Zoom** the link to the [Problem](https://open.kattis.com/problems/zoom) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zoom.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zoom.py)
 
