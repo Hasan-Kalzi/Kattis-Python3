@@ -25,6 +25,8 @@ Solutions for Kattis problems in Python 3 language.
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Arrangement.py)
 * **ASCII Addition** the link to the [Problem](https://open.kattis.com/problems/asciiaddition)  and here the
 [Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/ASCII_Addition.py)
+* **Astrological Sign** the link to the [Problem](https://open.kattis.com/problems/astrologicalsign)  and here the
+[Solution](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Astrological_Sign.py)
 ### B
 ### C
 ### D
