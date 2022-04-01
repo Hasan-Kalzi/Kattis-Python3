@@ -39,6 +39,9 @@ Solutions for Kattis problems in Python 3 language.
 * **Astrological Sign** the link to the [Problem](https://open.kattis.com/problems/astrologicalsign) and here is the
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Astrological_Sign.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Astrological_Sign.py)
+* **Autori** the link to the [Problem](https://open.kattis.com/problems/autori) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Autori.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Autori.py)
 ### B
 ### C
 ### D
