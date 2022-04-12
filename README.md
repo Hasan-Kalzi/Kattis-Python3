@@ -49,6 +49,9 @@ Solutions for Kattis problems in Python 3 language.
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Avion.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Avion.py)
 ### B
+* **Batter Up** the link to the [Problem](https://open.kattis.com/problems/batterup) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Batter_Up.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Batter_Up.py)
 ### C
 ### D
 ### E
