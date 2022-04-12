@@ -55,6 +55,9 @@ Solutions for Kattis problems in Python 3 language.
 * **Beavergnaw** the link to the [Problem](https://open.kattis.com/problems/beavergnaw) and here is the
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Beavergnaw.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Beavergnaw.py)
+* **Bela** the link to the [Problem](https://open.kattis.com/problems/bela) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bela.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bela.py)
 ### C
 ### D
 ### E
