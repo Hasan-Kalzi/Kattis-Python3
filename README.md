@@ -66,6 +66,9 @@ Solutions for Kattis problems in Python 3 language.
 * **Scaling Recipe** the link to the [Problem](https://open.kattis.com/problems/scalingrecipe)  and here is the
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Scaling_Recipe.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Scaling_Recipe.py)
+* **Social Distancing** the link to the [Problem](https://open.kattis.com/problems/socialdistancing2)  and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_Distancing.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_Distancing.py)
 ### T
 ### U
 ### V
