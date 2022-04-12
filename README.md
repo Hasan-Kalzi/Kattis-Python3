@@ -42,6 +42,9 @@ Solutions for Kattis problems in Python 3 language.
 * **Autori** the link to the [Problem](https://open.kattis.com/problems/autori) and here is the
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Autori.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Autori.py)
+* **Average Character** the link to the [Problem](https://open.kattis.com/problems/averagecharacter) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Average_Character.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Average_Character.py)
 ### B
 ### C
 ### D
