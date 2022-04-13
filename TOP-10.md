@@ -10,3 +10,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
 #### [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
 #### [Average Character](https://open.kattis.com/problems/averagecharacter/statistics) - py2
+#### [Betting](https://open.kattis.com/problems/betting/statistics) - py2
