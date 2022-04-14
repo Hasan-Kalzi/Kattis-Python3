@@ -61,6 +61,9 @@ Solutions for Kattis problems in Python 3 language.
 * **Betting** the link to the [Problem](https://open.kattis.com/problems/betting) and here is the
 [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Betting.py) and here is the 
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Betting.py)
+* **Bijele** the link to the [Problem](https://open.kattis.com/problems/bijele) and here is the
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py) and here is the 
+[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
 ### C
 ### D
 ### E
