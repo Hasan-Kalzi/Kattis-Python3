@@ -64,6 +64,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Bijele**](https://open.kattis.com/problems/bijele)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
+* #### [**Birthday Memorization**](https://open.kattis.com/problems/fodelsedagsmemorisering/en)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Birthday_Memorization.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Birthday_Memorization.py)
 ### C
 ### D
 ### E
@@ -78,18 +81,18 @@ Solutions for Kattis problems in Python 3 language.
 ### N
 ### O
 ### P
-* **Pachyderm Peanut Packing** the link to the [Problem](https://open.kattis.com/problems/pachydermpeanutpacking) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pachyderm_Peanut_Packing.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pachyderm_Peanut_Packing.py)
+#### [**Pachyderm Peanut Packing**](https://open.kattis.com/problems/pachydermpeanutpacking)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pachyderm_Peanut_Packing.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pachyderm_Peanut_Packing.py)
 ### Q
 ### R
 ### S
-* **Scaling Recipe** the link to the [Problem](https://open.kattis.com/problems/scalingrecipe)  and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Scaling_Recipe.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Scaling_Recipe.py)
-* **Social Distancing** the link to the [Problem](https://open.kattis.com/problems/socialdistancing2)  and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_Distancing.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_Distancing.py)
+#### [**Scaling Recipe**](https://open.kattis.com/problems/scalingrecipe)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Scaling_Recipe.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Scaling_Recipe.py)
+#### [**Social Distancing**](https://open.kattis.com/problems/socialdistancing2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_Distancing.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_Distancing.py)
 ### T
 ### U
 ### V
@@ -97,7 +100,7 @@ Solutions for Kattis problems in Python 3 language.
 ### X
 ### Y
 ### Z
-* **Zoom** the link to the [Problem](https://open.kattis.com/problems/zoom) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zoom.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zoom.py)
+#### [**Zoom**](https://open.kattis.com/problems/zoom)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zoom.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zoom.py)
 
