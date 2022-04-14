@@ -3,67 +3,67 @@ Solutions for Kattis problems in Python 3 language.
 
 ## List of problems
 ### A
-* **Aaah!** the link to the [Problem](https://open.kattis.com/problems/aaah) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Aaah.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Aaah.py)
-* **ACM Contest Scoring** the link to the [Problem](https://open.kattis.com/problems/acm) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ACM_Contest_Scoring.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ACM_Contest_Scoring.py)
-* **Add Two Numbers** the link to the [Problem](https://open.kattis.com/problems/addtwonumbers) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Add_Two_Numbers.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Add_Two_Numbers.py)
-* **Alphabet Spam** the link to the [Problem](https://open.kattis.com/problems/alphabetspam) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Alphabet_Spam.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Alphabet_Spam.py)
-* **A New Alphabet** the link to the [Problem](https://open.kattis.com/problems/anewalphabet) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_New_Alphabet.py) and here is the 
+####  [**Aaah!**](https://open.kattis.com/problems/aaah)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Aaah.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Aaah.py)
+#### [**ACM Contest Scoring**](https://open.kattis.com/problems/acm)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ACM_Contest_Scoring.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ACM_Contest_Scoring.py)
+#### [**Add Two Numbers**](https://open.kattis.com/problems/addtwonumbers) 
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Add_Two_Numbers.py) 
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Add_Two_Numbers.py)
+#### [**Alphabet Spam**](https://open.kattis.com/problems/alphabetspam)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Alphabet_Spam.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Alphabet_Spam.py)
+#### [**A New Alphabet**](https://open.kattis.com/problems/anewalphabet)
+[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_New_Alphabet.py)
 [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_New_Alphabet.py)
-* **Apaxiaaaaaaaaaaaans!** the link to the [Problem](https://open.kattis.com/problems/apaxiaaans) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Apaxiaaaaaaaaaaaans.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Apaxiaaaaaaaaaaaans.py)
-* **A Rational Sequence 2** the link to the [Problem](https://open.kattis.com/problems/rationalsequence2) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Rational_Sequence_2.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Rational_Sequence_2.py)
-* **A Real Challenge** the link to the [Problem](https://open.kattis.com/problems/areal) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Real_Challenge.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Real_Challenge.py)
-* **Arm Coordination** the link to the [Problem](https://open.kattis.com/problems/armcoordination) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arm_Coordination.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arm_Coordination.py)
-* **Arrangement** the link to the [Problem](https://open.kattis.com/problems/upprodun) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arrangement.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arrangement.py)
-* **ASCII Addition** the link to the [Problem](https://open.kattis.com/problems/asciiaddition) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ASCII_Addition.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ASCII_Addition.py)
-* **Astrological Sign** the link to the [Problem](https://open.kattis.com/problems/astrologicalsign) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Astrological_Sign.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Astrological_Sign.py)
-* **Autori** the link to the [Problem](https://open.kattis.com/problems/autori) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Autori.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Autori.py)
-* **Average Character** the link to the [Problem](https://open.kattis.com/problems/averagecharacter) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Average_Character.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Average_Character.py)
-* **Avion** the link to the [Problem](https://open.kattis.com/problems/avion) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Avion.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Avion.py)
+#### [**Apaxiaaaaaaaaaaaans!**](https://open.kattis.com/problems/apaxiaaans)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Apaxiaaaaaaaaaaaans.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Apaxiaaaaaaaaaaaans.py)
+#### [**A Rational Sequence 2**](https://open.kattis.com/problems/rationalsequence2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Rational_Sequence_2.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Rational_Sequence_2.py)
+#### [**A Real Challenge**](https://open.kattis.com/problems/areal)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/A_Real_Challenge.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/A_Real_Challenge.py)
+#### [**Arm Coordination**](https://open.kattis.com/problems/armcoordination)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arm_Coordination.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arm_Coordination.py)
+#### [**Arrangement**](https://open.kattis.com/problems/upprodun)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Arrangement.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Arrangement.py)
+#### [**ASCII Addition**](https://open.kattis.com/problems/asciiaddition)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ASCII_Addition.py) 
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ASCII_Addition.py)
+#### [**Astrological Sign**](https://open.kattis.com/problems/astrologicalsign)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Astrological_Sign.py) 
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Astrological_Sign.py)
+#### [**Autori**](https://open.kattis.com/problems/autori)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Autori.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Autori.py)
+#### [**Average Character**](https://open.kattis.com/problems/averagecharacter)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Average_Character.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Average_Character.py)
+#### [**Avion**](https://open.kattis.com/problems/avion)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Avion.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Avion.py)
 ### B
-* **Batter Up** the link to the [Problem](https://open.kattis.com/problems/batterup) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Batter_Up.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Batter_Up.py)
-* **Beavergnaw** the link to the [Problem](https://open.kattis.com/problems/beavergnaw) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Beavergnaw.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Beavergnaw.py)
-* **Bela** the link to the [Problem](https://open.kattis.com/problems/bela) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bela.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bela.py)
-* **Betting** the link to the [Problem](https://open.kattis.com/problems/betting) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Betting.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Betting.py)
-* **Bijele** the link to the [Problem](https://open.kattis.com/problems/bijele) and here is the
-[Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py) and here is the 
-[Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
+#### [**Batter Up**](https://open.kattis.com/problems/batterup)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Batter_Up.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Batter_Up.py)
+#### [**Beavergnaw**](https://open.kattis.com/problems/beavergnaw)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Beavergnaw.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Beavergnaw.py)
+#### [**Bela**](https://open.kattis.com/problems/bela)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bela.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bela.py)
+#### [**Betting**](https://open.kattis.com/problems/betting)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Betting.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Betting.py)
+#### [**Bijele**](https://open.kattis.com/problems/bijele)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
 ### C
 ### D
 ### E
