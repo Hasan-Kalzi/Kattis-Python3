@@ -64,9 +64,12 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Bijele**](https://open.kattis.com/problems/bijele)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bijele.py)
-* #### [**Birthday Memorization**](https://open.kattis.com/problems/fodelsedagsmemorisering/en)
+#### [**Birthday Memorization**](https://open.kattis.com/problems/fodelsedagsmemorisering/en)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Birthday_Memorization.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Birthday_Memorization.py)
+#### [**Bluetooth**](https://open.kattis.com/problems/bluetooth/en)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bluetooth.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bluetooth.pyy)
 ### C
 ### D
 ### E
