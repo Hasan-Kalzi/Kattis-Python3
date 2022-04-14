@@ -69,7 +69,10 @@ Solutions for Kattis problems in Python 3 language.
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Birthday_Memorization.py)
 #### [**Bluetooth**](https://open.kattis.com/problems/bluetooth/en)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bluetooth.py)
-* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bluetooth.pyy)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bluetooth.py)
+#### [**Boat Parts**](https://open.kattis.com/problems/boatparts)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Boat_Parts.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Boat_Parts.py)
 ### C
 ### D
 ### E
