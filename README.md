@@ -80,6 +80,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Breaking Branches**](https://open.kattis.com/problems/breakingbranches)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Breaking_Branches.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Breaking_Branches.py)
+#### [**Broken Calculator**](https://open.kattis.com/problems/brokencalculator)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Broken_Calculator.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Broken_Calculator.py)
 ### C
 ### D
 ### E
