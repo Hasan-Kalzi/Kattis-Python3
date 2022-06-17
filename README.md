@@ -86,6 +86,9 @@ Solutions for Kattis problems in Python 3 language.
 ### C
 ### D
 ### E
+#### [**Exoplanet Lighthouse**](https://open.kattis.com/problems/exoplanetlighthouse)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Exoplanet_Lighthouse.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Exoplanet_Lighthouse.py)
 ### F
 ### G
 ### H
