@@ -84,6 +84,9 @@ Solutions for Kattis problems in Python 3 language.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Broken_Calculator.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Broken_Calculator.py)
 ### C
+#### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Counting_Clauses.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Counting_Clauses.py)
 ### D
 ### E
 #### [**Exoplanet Lighthouse**](https://open.kattis.com/problems/exoplanetlighthouse)

@@ -16,3 +16,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [99 Problems](https://open.kattis.com/problems/99problems/statistics) - py2
 #### [Broken Calculator](https://open.kattis.com/problems/brokencalculator/statistics) - py2 and py3
 #### [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
+#### [Counting Clauses](https://open.kattis.com/problems/countingclauses/statistics) - py2
