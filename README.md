@@ -83,6 +83,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Broken Calculator**](https://open.kattis.com/problems/brokencalculator)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Broken_Calculator.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Broken_Calculator.py)
+#### [**Building Pyramids**](https://open.kattis.com/problems/pyramids)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Building_Pyramids.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python2/blob/main/src/Py3/Building_Pyramids.py)
 ### C
 #### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Counting_Clauses.py)
