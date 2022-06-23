@@ -24,3 +24,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
 #### [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
 #### [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+#### [Chanukah Challenge](https://open.kattis.com/problems/chanukah/statistics) - py2
