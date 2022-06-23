@@ -18,10 +18,10 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Building Pyramids](https://open.kattis.com/problems/pyramids/statistics) - py2
 #### [Buka](https://open.kattis.com/problems/buka/statistics) - py2 , py3
 #### [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores/statistics) - py2
+#### [Chanukah Challenge](https://open.kattis.com/problems/chanukah/statistics) - py2
 #### [Counting Clauses](https://open.kattis.com/problems/countingclauses/statistics) - py2
 #### [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
 #### [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
 #### [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
 #### [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
 #### [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
-#### [Chanukah Challenge](https://open.kattis.com/problems/chanukah/statistics) - py2
