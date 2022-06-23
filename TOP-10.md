@@ -22,3 +22,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Counting Clauses](https://open.kattis.com/problems/countingclauses/statistics) - py2
 #### [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2/statistics) - py2
 #### [Building Pyramids](https://open.kattis.com/problems/pyramids/statistics) - py2
+#### [Buka](https://open.kattis.com/problems/buka/statistics) - py2 , py3
