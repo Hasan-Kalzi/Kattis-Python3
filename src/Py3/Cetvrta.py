@@ -19,3 +19,4 @@ elif values[1] == values[5]:
 else:
     y = values[1]
 print(x, y)
+
