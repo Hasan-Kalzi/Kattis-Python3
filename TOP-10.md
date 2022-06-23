@@ -11,8 +11,10 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Average Character](https://open.kattis.com/problems/averagecharacter/statistics) - py2 , py3
 #### [Bela](https://open.kattis.com/problems/bela/statistics) - py2
 #### [Avion](https://open.kattis.com/problems/avion/statistics) - py2
+#### [Bela](https://open.kattis.com/problems/bela/statistics) - py2
 #### [Betting](https://open.kattis.com/problems/betting/statistics) - py2
 #### [Bluetooth](https://open.kattis.com/problems/bluetooth/statistics) - py2
+#### [Boat Parts](https://open.kattis.com/problems/boatparts/statistics) - py2
 #### [Breaking Branches](https://open.kattis.com/problems/breakingbranches/statistics) - py2 , py3
 #### [Broken Calculator](https://open.kattis.com/problems/brokencalculator/statistics) - py2 , py3
 #### [Building Pyramids](https://open.kattis.com/problems/pyramids/statistics) - py2
