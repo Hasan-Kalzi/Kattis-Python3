@@ -110,6 +110,9 @@ Solutions for Kattis problems in Python 3 language.
 <details>
     <summary>C</summary>
 
+#### [**Calculating Dart Scores**](https://open.kattis.com/problems/calculatingdartscores)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Calculating_Dart_Scores.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Calculating_Dart_Scores.py)
 #### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Counting_Clauses.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Counting_Clauses.py)
