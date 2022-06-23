@@ -3,7 +3,7 @@ Solutions for Kattis problems in Python 3 language.
 
 ## List of problems
 <details>
-  <summary> ### 123</summary>
+  ### <summary>123</summary>
 
 
 ####  [**99 Problems**](https://open.kattis.com/problems/99problemsh)
