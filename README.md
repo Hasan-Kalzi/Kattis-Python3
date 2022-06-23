@@ -89,6 +89,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Buka**](https://open.kattis.com/problems/buka)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Buka.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Buka.py)
+#### [**Bus**](https://open.kattis.com/problems/bus)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bus.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bus.py)
 ### C
 #### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Counting_Clauses.py)
