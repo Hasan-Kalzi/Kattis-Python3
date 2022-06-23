@@ -11,7 +11,9 @@ Solutions for Kattis problems in Python 3 language.
 
 </details>
 
-### A
+<details>
+    <summary>A</summary>
+
 ####  [**Aaah!**](https://open.kattis.com/problems/aaah)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Aaah.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Aaah.py)
@@ -57,7 +59,12 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Avion**](https://open.kattis.com/problems/avion)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Avion.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Avion.py)
-### B
+
+</details>
+
+<details>
+    <summary>B</summary>
+
 #### [**Batter Up**](https://open.kattis.com/problems/batterup)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Batter_Up.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Batter_Up.py)
@@ -97,15 +104,29 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Bus**](https://open.kattis.com/problems/bus)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Bus.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Bus.py)
-### C
+
+</details>
+
+<details>
+    <summary>C</summary>
+
 #### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Counting_Clauses.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Counting_Clauses.py)
+
+</details>
+
 ### D
-### E
+
+<details>
+    <summary>E</summary>
+
 #### [**Exoplanet Lighthouse**](https://open.kattis.com/problems/exoplanetlighthouse)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Exoplanet_Lighthouse.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Exoplanet_Lighthouse.py)
+
+</details>
+
 ### F
 ### G
 ### H
@@ -116,27 +137,46 @@ Solutions for Kattis problems in Python 3 language.
 ### M
 ### N
 ### O
-### P
+
+<details>
+    <summary>P</summary>
+
 #### [**Pachyderm Peanut Packing**](https://open.kattis.com/problems/pachydermpeanutpacking)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pachyderm_Peanut_Packing.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pachyderm_Peanut_Packing.py)
+
+</details>
+
 ### Q
 ### R
-### S
+
+<details>
+    <summary>S</summary>
+
 #### [**Scaling Recipe**](https://open.kattis.com/problems/scalingrecipe)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Scaling_Recipe.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Scaling_Recipe.py)
 #### [**Social Distancing**](https://open.kattis.com/problems/socialdistancing2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_Distancing.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_Distancing.py)
+
+</details>
+
 ### T
 ### U
 ### V
 ### W
 ### X
 ### Y
-### Z
+
+<details>
+    <summary>Z</summary>
+
 #### [**Zoom**](https://open.kattis.com/problems/zoom)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zoom.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zoom.py)
+
+</details>
+
+
 
