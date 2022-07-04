@@ -137,7 +137,7 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Contest Struggles**](https://open.kattis.com/problems/conteststruggles)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Contest_Struggles.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Contest_Struggles.py)
-* #### [**Cooking Water**](https://open.kattis.com/problems/cookingwater)
+#### [**Cooking Water**](https://open.kattis.com/problems/cookingwater)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Cooking_Water.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Cooking_Water.py)
 #### [**Counting Clauses**](https://open.kattis.com/problems/countingclauses)
