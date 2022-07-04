@@ -25,6 +25,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Code to Save Lives](https://open.kattis.com/problems/codetosavelives/statistics) - py2 , py3
 #### [Contest Struggles](https://open.kattis.com/problems/conteststruggles/statistics) - py2 , py3
 #### [Cooking Water](https://open.kattis.com/problems/cookingwater/statistics) - py2
+#### [Count the Vowels](https://open.kattis.com/problems/countthevowels/statistics) - py2
 #### [Counting Clauses](https://open.kattis.com/problems/countingclauses/statistics) - py2
 #### [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
 #### [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
