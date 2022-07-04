@@ -146,6 +146,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Count the Vowels**](https://open.kattis.com/problems/countthevowels)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Count_the_Vowels.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Count_the_Vowels.py)
+#### [**Course Scheduling**](https://open.kattis.com/problems/coursescheduling)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Course_Scheduling.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Course_Scheduling.py)
 
 </details>
 
