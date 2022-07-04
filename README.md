@@ -152,6 +152,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**CPR Number**](https://open.kattis.com/problems/cprnummer)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/CPR_Number.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/CPR_Number.py)
+#### [**Cryptographer's Conundrum**](https://open.kattis.com/problems/conundrum)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Cryptographers_Conundrum.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Cryptographers_Conundrum.py)
 
 </details>
 
