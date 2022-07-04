@@ -158,6 +158,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Cudoviste**](https://open.kattis.com/problems/cudoviste)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Cudoviste.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Cudoviste.py)
+#### [**Cut in Line**](https://open.kattis.com/problems/cutinline)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Cut_in_Line.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Cut_in_Line.py)
 
 </details>
 

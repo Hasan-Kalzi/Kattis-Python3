@@ -29,6 +29,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 #### [Count the Vowels](https://open.kattis.com/problems/countthevowels/statistics) - py2
 #### [Course Scheduling](https://open.kattis.com/problems/coursescheduling/statistics) - py2
 #### [CPR Number](https://open.kattis.com/problems/cprnummer/statistics) - py2 , py3
+#### [Cut in Line](https://open.kattis.com/problems/cutinline/statistics) - py2 , py3
 #### [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
 #### [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
 #### [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
