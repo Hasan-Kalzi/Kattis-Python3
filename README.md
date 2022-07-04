@@ -165,7 +165,7 @@ Solutions for Kattis problems in Python 3 language.
 </details>
 
 <details>
-    <summary>B</summary>
+    <summary>D</summary>
 
 #### [**Damaged Equation**](https://open.kattis.com/problems/damagedequation)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Damaged_Equation.py)
