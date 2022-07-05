@@ -188,6 +188,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Digit Product**](https://open.kattis.com/problems/sifferprodukt/en)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Digit_Product.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Digit_Product.py)
+#### [**Digit Swap**](https://open.kattis.com/problems/digitswap)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Digit_Swap.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Digit_Swap.py)
 
 </details>
 
