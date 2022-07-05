@@ -194,6 +194,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Double Password**](https://open.kattis.com/problems/doublepassword)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Double_Password.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Double_Password.py)
+#### [**DRM Messages**](https://open.kattis.com/problems/drmmessages)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/DRM_Messages.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/DRM_Messages.py)
 
 </details>
 
