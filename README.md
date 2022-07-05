@@ -182,6 +182,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Dice Game**](https://open.kattis.com/problems/dicegame)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Dice_Game.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Dice_Game.py)
+#### [**Different Distances**](https://open.kattis.com/problems/differentdistances)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Different_Distances.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Different_Distances.py)
 
 </details>
 
