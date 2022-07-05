@@ -197,6 +197,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**DRM Messages**](https://open.kattis.com/problems/drmmessages)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/DRM_Messages.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/DRM_Messages.py)
+#### [**Drunk Vigenère**](https://open.kattis.com/problems/drunkvigenere)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Drunk_Vigenere.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Drunk_Vigenere.py)
 
 </details>
 
