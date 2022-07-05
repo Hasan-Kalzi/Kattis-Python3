@@ -191,6 +191,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Digit Swap**](https://open.kattis.com/problems/digitswap)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Digit_Swap.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Digit_Swap.py)
+#### [**Double Password**](https://open.kattis.com/problems/doublepassword)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Double_Password.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Double_Password.py)
 
 </details>
 
