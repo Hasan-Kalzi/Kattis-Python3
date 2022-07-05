@@ -173,6 +173,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Datum**](https://open.kattis.com/problems/datum)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Datum.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Datum.py)
+#### [**Detailed Differences**](https://open.kattis.com/problems/detaileddifferences)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Detailed_Differences.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Detailed_Differences.py)
 
 </details>
 
