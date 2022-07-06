@@ -36,8 +36,9 @@ These are links to problem statics where my name appears on the top 10 list in P
 33. [Digit Swap](https://open.kattis.com/problems/digitswap/statistics) - py2
 34. [Double Password](https://open.kattis.com/problems/doublepassword/statistics) - py2
 35. [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere/statistics) - py2, py3
-36. [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
-37. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-38. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-39. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-40. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+36. [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho/statistics) - py2
+37. [Exoplanet Lighthouse](https://open.kattis.com/problems/exoplanetlighthouse/statistics) - py2
+38. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+39. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+40. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+41. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
