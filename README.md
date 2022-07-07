@@ -230,6 +230,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Exoplanet Lighthouse**](https://open.kattis.com/problems/exoplanetlighthouse)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Exoplanet_Lighthouse.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Exoplanet_Lighthouse.py)
+#### [**Expected Earnings**](https://open.kattis.com/problems/expectedearnings)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Expected_Earnings.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Expected_Earnings.py)
 
 </details>
 
