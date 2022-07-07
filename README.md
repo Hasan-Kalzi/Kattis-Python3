@@ -245,6 +245,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Faktor**](https://open.kattis.com/problems/faktor)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Faktor.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Faktor.py)
+#### [**Falling Apart**](https://open.kattis.com/problems/fallingapart)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Falling_Apart.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Falling_Apart.py)
 
 </details>
 
