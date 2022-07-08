@@ -44,7 +44,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 41. [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron/statistics) - py2
 42. [Expected Earnings](https://open.kattis.com/problems/expectedearnings/statistics) - py2, py3
 43. [Field Trip](https://open.kattis.com/problems/fieldtrip/statistics) - py2
-44. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-45. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-46. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-47. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+44. [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades/statistics) - py2
+45. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+46. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+47. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+48. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
