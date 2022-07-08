@@ -263,6 +263,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Finding An A**](https://open.kattis.com/problems/findingana)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Finding_An_A.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Finding_An_A.py)
+#### [**FizzBuzz**](https://open.kattis.com/problems/fizzbuzz)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/FizzBuzz.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/FizzBuzz.py)
 
 </details>
 
