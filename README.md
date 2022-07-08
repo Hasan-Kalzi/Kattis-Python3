@@ -257,6 +257,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Filip**](https://open.kattis.com/problems/filip)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Filip.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Filip.py)
+#### [**Final Exam**](https://open.kattis.com/problems/finalexam2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Final_Exam.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Final_Exam.py)
 
 </details>
 
