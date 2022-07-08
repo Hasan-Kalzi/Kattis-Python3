@@ -266,6 +266,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**FizzBuzz**](https://open.kattis.com/problems/fizzbuzz)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/FizzBuzz.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/FizzBuzz.py)
+#### [**Flying Safely**](https://open.kattis.com/problems/flyingsafely)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Flying_Safely.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Flying_Safely.py)
 
 </details>
 
