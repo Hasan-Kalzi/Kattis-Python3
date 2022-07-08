@@ -251,6 +251,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Field Trip**](https://open.kattis.com/problems/fieldtrip)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Field_Trip.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Field_Trip.py)
+#### [**Fifty Shades of Pink**](https://open.kattis.com/problems/fiftyshades)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Fifty_Shades_of_Pink.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Fifty_Shades_of_Pink.py)
 
 </details>
 
