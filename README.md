@@ -254,6 +254,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Fifty Shades of Pink**](https://open.kattis.com/problems/fiftyshades)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Fifty_Shades_of_Pink.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Fifty_Shades_of_Pink.py)
+#### [**Filip**](https://open.kattis.com/problems/filip)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Filip.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Filip.py)
 
 </details>
 
