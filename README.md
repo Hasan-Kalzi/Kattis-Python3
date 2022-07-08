@@ -260,6 +260,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Final Exam**](https://open.kattis.com/problems/finalexam2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Final_Exam.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Final_Exam.py)
+#### [**Finding An A**](https://open.kattis.com/problems/findingana)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Finding_An_A.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Finding_An_A.py)
 
 </details>
 
