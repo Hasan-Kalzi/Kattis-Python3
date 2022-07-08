@@ -269,6 +269,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Flying Safely**](https://open.kattis.com/problems/flyingsafely)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Flying_Safely.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Flying_Safely.py)
+#### [**Forced Choice**](https://open.kattis.com/problems/forcedchoice)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Forced_Choice.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Forced_Choice.py)
 
 </details>
 
