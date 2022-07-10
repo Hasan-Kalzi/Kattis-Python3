@@ -275,6 +275,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Free Food**](https://open.kattis.com/problems/freefood)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Free_Food.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Free_Food.py)
+#### [**FYI**](https://open.kattis.com/problems/fyi)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/FYI.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/FYI.py)
 
 </details>
 
