@@ -287,10 +287,13 @@ Solutions for Kattis problems in Python 3 language.
 #### [**GCVWR**](https://open.kattis.com/problems/gcvwr)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/GCVWR.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/GCVWR.py)
+#### [**Gerrymandering**](https://open.kattis.com/problems/gerrymandering)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Gerrymandering.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Gerrymandering.py)
 
 </details>
 
-### G
+
 ### H
 ### I
 ### J
