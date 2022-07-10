@@ -49,7 +49,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 46. [Finding An A](https://open.kattis.com/problems/findingana/statistics) - py2
 47. [Forced Choice](https://open.kattis.com/problems/forcedchoice/statistics) - py2, py3
 48. [FYI](https://open.kattis.com/problems/fyi/statistics) - py2
-49. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-50. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-51. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-52. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+49. [GCVWR](https://open.kattis.com/problems/gcvwr/statistics) - py2
+50. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+51. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+52. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+53. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
