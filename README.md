@@ -305,6 +305,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Greedy Polygons**](https://open.kattis.com/problems/greedypolygons)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Greedy_Polygons.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Greedy_Polygons.py)
+#### [**Greetings!**](https://open.kattis.com/problems/greetings2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Greetings.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Greetings.py)
 
 </details>
 
