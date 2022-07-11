@@ -311,8 +311,15 @@ Solutions for Kattis problems in Python 3 language.
 
 </details>
 
+<details>
+    <summary>H</summary>
 
-### H
+#### [**Hailstone Sequences!**](https://open.kattis.com/problems/hailstone2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hailstone_Sequences.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hailstone_Sequences.py)
+
+</details>
+
 ### I
 ### J
 ### K
