@@ -296,6 +296,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Grading**](https://open.kattis.com/problems/grading)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Grading.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Grading.py)
+#### [**Graduation**](https://open.kattis.com/problems/skolavslutningen/en)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Graduation.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Graduation.py)
 
 </details>
 
