@@ -52,7 +52,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 49. [GCVWR](https://open.kattis.com/problems/gcvwr/statistics) - py2
 50. [Gerrymandering](https://open.kattis.com/problems/gerrymandering/statistics) - py2
 51. [Goat Rope](https://open.kattis.com/problems/goatrope/statistics) - py2
-52. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-53. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-54. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-55. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+52. [Grading](https://open.kattis.com/problems/grading/statistics) - py2, py3
+53. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+54. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+55. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+56. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
