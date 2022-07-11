@@ -326,6 +326,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Harshad Numbers**](https://open.kattis.com/problems/harshadnumbers)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Harshad_Numbers.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Harshad_Numbers.py)
+#### [**Heart Rate**](https://open.kattis.com/problems/heartrate)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Heart_Rate.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Heart_Rate.py)
 
 </details>
 
