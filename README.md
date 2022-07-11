@@ -320,6 +320,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Hanging Out on the Terrace**](https://open.kattis.com/problems/hangingout)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hanging_Out_on_the_Terrace.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hanging_Out_on_the_Terrace.py)
+#### [**Hangman**](https://open.kattis.com/problems/hangman)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hangman.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hangman.py)
 
 </details>
 
