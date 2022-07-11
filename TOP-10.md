@@ -54,7 +54,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 51. [Goat Rope](https://open.kattis.com/problems/goatrope/statistics) - py2
 52. [Grading](https://open.kattis.com/problems/grading/statistics) - py2, py3
 53. [Graduation](https://open.kattis.com/problems/skolavslutningen/statistics) - py2, py3
-54. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-55. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-56. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-57. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+54. [Greedy Polygons](https://open.kattis.com/problems/greedypolygons/statistics) - py2, py3
+55. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+56. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+57. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+58. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
