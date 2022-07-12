@@ -347,6 +347,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Hitting the Targets**](https://open.kattis.com/problems/hittingtargets)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hitting_the_Targets.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hitting_the_Targets.py)
+#### [**Homework**](https://open.kattis.com/problems/heimavinna)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Homework.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Homework.py)
 
 </details>
 
