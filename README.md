@@ -341,6 +341,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Herman**](https://open.kattis.com/problems/herman)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Herman.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Herman.py)
+#### [**Hissing Microphone**](https://open.kattis.com/problems/hissingmicrophone)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hissing_Microphone.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hissing_Microphone.py)
 
 </details>
 
