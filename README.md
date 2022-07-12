@@ -344,6 +344,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Hissing Microphone**](https://open.kattis.com/problems/hissingmicrophone)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hissing_Microphone.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hissing_Microphone.py)
+#### [**Hitting the Targets**](https://open.kattis.com/problems/hittingtargets)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hitting_the_Targets.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hitting_the_Targets.py)
 
 </details>
 
