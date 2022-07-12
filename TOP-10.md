@@ -1,4 +1,4 @@
-# The 10 fastest solutions in Python 3 or Python 2 
+# My solutions between the 10 fastest solutions in Python 3 or Python 2 
 
 These are links to problem statics where my name appears on the top 10 list in Python 3 or Python 2:
 1. [99 Problems](https://open.kattis.com/problems/99problems/statistics) - py2
@@ -61,7 +61,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 58. [Homework](https://open.kattis.com/problems/heimavinna/statistics) - py2
 59. [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent/statistics) - py2
 60. [Hot Springs](https://open.kattis.com/problems/hotsprings/statistics) - py2, py3
-61. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-62. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-63. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-64. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+61. [Inquiry I](https://open.kattis.com/problems/inquiryi/statistics) - py2, py3
+62. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+63. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+64. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+65. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
