@@ -1,5 +1,5 @@
-# Kattis-Python3
-Solutions for Kattis problems in Python 3 language.
+# Kattis Python 3/ Python 2 
+Solutions for Kattis problems in Python 3 and Python 2 languages.
 
 ## List of problems
 <details>
@@ -368,6 +368,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Identifying Map Tiles**](https://open.kattis.com/problems/maptiles2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Identifying_Map_Tiles.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Identifying_Map_Tiles.py)
+#### [**Inquiry I**](https://open.kattis.com/problems/inquiryi)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Inquiry_I.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Inquiry_I.py)
 
 </details>
 
