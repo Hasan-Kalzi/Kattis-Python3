@@ -359,7 +359,14 @@ Solutions for Kattis problems in Python 3 language.
 
 </details>
 
-### I
+<details>
+    <summary>I</summary>
+
+#### [**ICPC Awards**](https://open.kattis.com/problems/icpcawards)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ICPC_Awards.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ICPC_Awards.py)
+
+</details>
 ### J
 ### K
 ### L
