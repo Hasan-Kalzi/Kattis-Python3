@@ -353,6 +353,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Honour Thy (Apaxian) Parent**](https://open.kattis.com/problems/apaxianparent)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Honour_Thy_Parent.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Honour_Thy_Parent.py)
+#### [**Hot Springs**](https://open.kattis.com/problems/hotsprings)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Hot_Springs.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Hot_Springs.py)
 
 </details>
 
