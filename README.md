@@ -338,6 +338,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Help a PhD candidate out!**](https://open.kattis.com/problems/helpaphd)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Help_a_PhD_candidate_out.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Help_a_PhD_candidate_out.py)
+#### [**Herman**](https://open.kattis.com/problems/herman)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Herman.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Herman.py)
 
 </details>
 
