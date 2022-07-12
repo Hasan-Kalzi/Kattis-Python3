@@ -335,6 +335,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Hello World!**](https://open.kattis.com/problems/hello)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/HelloWorld.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/HelloWorld.py)
+#### [**Help a PhD candidate out!**](https://open.kattis.com/problems/helpaphd)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Help_a_PhD_candidate_out.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Help_a_PhD_candidate_out.py)
 
 </details>
 
