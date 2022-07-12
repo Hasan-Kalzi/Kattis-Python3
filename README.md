@@ -350,6 +350,9 @@ Solutions for Kattis problems in Python 3 language.
 #### [**Homework**](https://open.kattis.com/problems/heimavinna)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Homework.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Homework.py)
+#### [**Honour Thy (Apaxian) Parent**](https://open.kattis.com/problems/apaxianparent)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Honour_Thy_Parent.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Honour_Thy_Parent.py)
 
 </details>
 
