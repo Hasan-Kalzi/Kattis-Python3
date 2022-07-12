@@ -365,8 +365,12 @@ Solutions for Kattis problems in Python 3 language.
 #### [**ICPC Awards**](https://open.kattis.com/problems/icpcawards)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/ICPC_Awards.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/ICPC_Awards.py)
+#### [**Identifying Map Tiles**](https://open.kattis.com/problems/maptiles2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Identifying_Map_Tiles.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Identifying_Map_Tiles.py)
 
 </details>
+
 ### J
 ### K
 ### L
