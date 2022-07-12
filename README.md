@@ -331,7 +331,10 @@ Solutions for Kattis problems in Python 3 language.
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Heart_Rate.py)
 #### [**Heir's Dilemma**](https://open.kattis.com/problems/heirsdilemma)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Heirs_Dilemma.py)
-* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Heirs_Dilemma.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Heirs_Dilemma.py)
+#### [**Hello World!**](https://open.kattis.com/problems/hello)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/HelloWorld.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/HelloWorld.py)
 
 </details>
 
