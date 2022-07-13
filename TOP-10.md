@@ -64,7 +64,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 61. [Inquiry I](https://open.kattis.com/problems/inquiryi/statistics) - py2, py3
 62. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween/statistics) - py2
 63. [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition/statistics) - py2
-64. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-65. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-66. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-67. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+64. [Janitor Troubles](https://open.kattis.com/problems/janitortroubles/statistics) - py2
+65. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+66. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+67. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+68. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
