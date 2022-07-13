@@ -67,7 +67,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 64. [Janitor Troubles](https://open.kattis.com/problems/janitortroubles/statistics) - py2
 65. [Jazz it Up!](https://open.kattis.com/problems/jazzitup/statistics) - py2
 66. [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam/statistics) - py2
-67. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-68. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-69. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-70. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+67. [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin/statistics) - py2
+68. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+69. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+70. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+71. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2

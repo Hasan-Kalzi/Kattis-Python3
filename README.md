@@ -401,6 +401,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Judging Moose**](https://open.kattis.com/problems/judgingmoose)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Judging_Moose.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Judging_Moose.py)
+#### [**Jumbo Javelin**](https://open.kattis.com/problems/jumbojavelin)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Jumbo_Javelin.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Jumbo_Javelin.py)
 
 </details>
 
