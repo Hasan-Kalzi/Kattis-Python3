@@ -62,8 +62,9 @@ These are links to problem statics where my name appears on the top 10 list in P
 59. [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent/statistics) - py2
 60. [Hot Springs](https://open.kattis.com/problems/hotsprings/statistics) - py2, py3
 61. [Inquiry I](https://open.kattis.com/problems/inquiryi/statistics) - py2, py3
-61. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween/statistics) - py2
-62. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-63. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-64. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-65. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+62. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween/statistics) - py2
+63. [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition/statistics) - py2
+64. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+65. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+66. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+67. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
