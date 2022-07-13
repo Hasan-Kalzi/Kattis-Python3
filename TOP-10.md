@@ -71,7 +71,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 68. [Knot Knowledge](https://open.kattis.com/problems/knotknowledge/statistics) - py2, py3
 69. [Laptop Sticker](https://open.kattis.com/problems/laptopsticker/statistics) - py2
 70. [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit/statistics) - py2
-71. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-72. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-73. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-74. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+71. [Last Minute](https://open.kattis.com/problems/lastminute/statistics) - py2, py3
+72. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+73. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+74. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+75. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
