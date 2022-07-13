@@ -386,6 +386,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Jack-O'-Lantern Juxtaposition**](https://open.kattis.com/problems/jackolanternjuxtaposition)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Jack_O_Lantern_Juxtaposition.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Jack_O_Lantern_Juxtaposition.py)
+#### [**Janitor Troubles**](https://open.kattis.com/problems/janitortroubles)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Janitor_Troubles.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Janitor_Troubles.py)
 
 </details>
 
