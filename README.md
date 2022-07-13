@@ -446,6 +446,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Last Minute**](https://open.kattis.com/problems/lastminute)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Last_Minute.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Last_Minute.py)
+#### [**Left Beehind**](https://open.kattis.com/problems/leftbeehind)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Left_Beehind.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Left_Beehind.py)
 
 </details>
 
