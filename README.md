@@ -440,6 +440,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Laptop Sticker**](https://open.kattis.com/problems/laptopsticker)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Laptop_Sticker.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Laptop_Sticker.py)
+#### [**Last Factorial Digit**](https://open.kattis.com/problems/lastfactorialdigit)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Last_Factorial_Digit.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Last_Factorial_Digit.py)
 
 </details>
 
