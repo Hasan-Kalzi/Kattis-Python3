@@ -422,6 +422,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Kleptography**](https://open.kattis.com/problems/kleptography)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Kleptography.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Kleptography.py)
+#### [**Knot Knowledge**](https://open.kattis.com/problems/knotknowledge)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Knot_Knowledge.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Knot_Knowledge.py)
 
 </details>
 
