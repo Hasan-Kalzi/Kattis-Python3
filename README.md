@@ -395,6 +395,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Job Expenses**](https://open.kattis.com/problems/jobexpenses)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Job_Expenses.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Job_Expenses.py)
+#### [**Joint Jog Jam**](https://open.kattis.com/problems/jointjogjam)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Joint_Jog_Jam.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Joint_Jog_Jam.py)
 
 </details>
 
