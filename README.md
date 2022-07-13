@@ -392,6 +392,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Jazz it Up!**](https://open.kattis.com/problems/jazzitup)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Jazz_it_Up.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Jazz_it_Up.py)
+#### [**Job Expenses**](https://open.kattis.com/problems/jobexpenses)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Job_Expenses.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Job_Expenses.py)
 
 </details>
 
