@@ -410,7 +410,15 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 
 </details>
 
-### K
+<details>
+    <summary>K</summary>
+
+#### [**Karte**](https://open.kattis.com/problems/karte)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Karte.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Karte.py)
+
+</details>
+
 ### L
 ### M
 ### N
