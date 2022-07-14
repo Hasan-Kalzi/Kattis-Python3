@@ -458,6 +458,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Loo Rolls**](https://open.kattis.com/problems/loorolls)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Loo_Rolls.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Loo_Rolls.py)
+#### [**Lost Lineup**](https://open.kattis.com/problems/lostlineup)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Lost_Lineup.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Lost_Lineup.py)
 
 </details>
 
