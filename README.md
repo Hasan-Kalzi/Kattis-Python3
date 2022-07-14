@@ -449,6 +449,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Left Beehind**](https://open.kattis.com/problems/leftbeehind)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Left_Beehind.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Left_Beehind.py)
+#### [**License to Launch**](https://open.kattis.com/problems/licensetolaunch)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/License_to_Launch.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/License_to_Launch.py)
 
 </details>
 
