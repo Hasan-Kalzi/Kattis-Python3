@@ -452,6 +452,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**License to Launch**](https://open.kattis.com/problems/licensetolaunch)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/License_to_Launch.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/License_to_Launch.py)
+#### [**Line Them Up**](https://open.kattis.com/problems/lineup)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Line_Them_Up.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Line_Them_Up.py)
 
 </details>
 
