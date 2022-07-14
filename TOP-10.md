@@ -74,7 +74,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 71. [Last Minute](https://open.kattis.com/problems/lastminute/statistics) - py2, py3
 72. [Loo Rolls](https://open.kattis.com/problems/loorolls/statistics) - py2
 73. [Lost Lineup](https://open.kattis.com/problems/lostlineup/statistics) - py2
-74. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-75. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-76. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-77. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+74. [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum/statistics) - py2
+75. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+76. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+77. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+78. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
