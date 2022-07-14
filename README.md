@@ -454,7 +454,10 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/License_to_Launch.py)
 #### [**Line Them Up**](https://open.kattis.com/problems/lineup)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Line_Them_Up.py)
-* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Line_Them_Up.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Line_Them_Up.py)
+#### [**Loo Rolls**](https://open.kattis.com/problems/loorolls)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Loo_Rolls.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Loo_Rolls.py)
 
 </details>
 
