@@ -432,7 +432,7 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 </details>
 
 <details>
-    <summary>P</summary>
+    <summary>L</summary>
 
 #### [**Ladder**](https://open.kattis.com/problems/ladder)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ladder.py)
@@ -465,9 +465,19 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Luhn_Checksum.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Luhn_Checksum.py)
 
+
 </details>
 
-### M
+<details>
+    <summary>M</summary>
+
+#### [**Magic Trick**](https://open.kattis.com/problems/magictrick)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Magic_Trick.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Magic_Trick.py)
+
+</details>
+
+
 ### N
 ### O
 
