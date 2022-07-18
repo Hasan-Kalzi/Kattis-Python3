@@ -510,6 +510,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**N-sum**](https://open.kattis.com/problems/nsum)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/N-sum.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/N-sum.py)
+#### [**Number Fun**](https://open.kattis.com/problems/numberfun)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Number_Fun.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Number_Fun.py)
 
 </details>
 
