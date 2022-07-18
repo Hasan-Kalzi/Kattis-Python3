@@ -507,6 +507,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**NOP**](https://open.kattis.com/problems/nop)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/NOP.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/NOP.py)
+#### [**N-sum**](https://open.kattis.com/problems/nsum)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/N-sum.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/N-sum.py)
 
 </details>
 

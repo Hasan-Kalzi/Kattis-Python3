@@ -79,7 +79,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 76. [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
 77. [Musical Trees](https://open.kattis.com/problems/musicaltrees/statistics) - py2, py3
 78. [NOP](https://open.kattis.com/problems/nop/statistics) - py2, py3
-79. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-80. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-81. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-82. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+79. [N-sum](https://open.kattis.com/problems/nsum/statistics) - py2, py3
+80. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+81. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+82. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+83. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
