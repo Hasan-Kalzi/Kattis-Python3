@@ -489,6 +489,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Modulo**](https://open.kattis.com/problems/modulo)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Modulo.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Modulo.py)
+#### [**Musical Trees**](https://open.kattis.com/problems/musicaltrees)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Musical_Trees.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Musical_Trees.py)
 
 </details>
 
