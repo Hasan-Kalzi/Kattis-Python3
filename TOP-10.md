@@ -76,7 +76,8 @@ These are links to problem statics where my name appears on the top 10 list in P
 73. [Lost Lineup](https://open.kattis.com/problems/lostlineup/statistics) - py2
 74. [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum/statistics) - py2
 75. [Magic Trick](https://open.kattis.com/problems/magictrick/statistics) - py2
-76. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-77. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-78. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-79. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+76. [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
+77. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+78. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+79. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+80. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
