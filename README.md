@@ -480,6 +480,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Missing Numbers**](https://open.kattis.com/problems/missingnumbers)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Missing_Numbers.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Missing_Numbers.py)
+#### [**Mixed Fractions**](https://open.kattis.com/problems/mixedfractions)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Mixed_Fractions.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Mixed_Fractions.py)
 
 </details>
 
