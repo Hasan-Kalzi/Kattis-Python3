@@ -504,6 +504,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**No Duplicates**](https://open.kattis.com/problems/nodup)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/No_Duplicates.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/No_Duplicates.py)
+#### [**NOP**](https://open.kattis.com/problems/nop)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/NOP.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/NOP.py)
 
 </details>
 
