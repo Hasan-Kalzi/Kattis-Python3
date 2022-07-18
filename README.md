@@ -486,6 +486,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Mjehuric**](https://open.kattis.com/problems/mjehuric)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Mjehuric.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Mjehuric.py)
+#### [**Modulo**](https://open.kattis.com/problems/modulo)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Modulo.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Modulo.py)
 
 </details>
 
