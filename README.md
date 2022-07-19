@@ -574,5 +574,11 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 
 </details>
 
+<details>
+    <summary>Ö</summary>
 
+#### [**Östgötska**](https://open.kattis.com/problems/ostgotska)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ostgotska.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ostgotska.py)
 
+</details>
