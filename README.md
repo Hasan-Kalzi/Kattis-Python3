@@ -527,7 +527,10 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Odd_Gnome.py)
 #### [**Oddities**](https://open.kattis.com/problems/oddities)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Oddities.py)
-* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Oddities.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Oddities.py)
+#### [**Odd Man Out**](https://open.kattis.com/problems/oddmanout)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Odd_Man_Out.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Odd_Man_Out.py)
 
 </details>
 
