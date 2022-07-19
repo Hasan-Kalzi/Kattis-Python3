@@ -522,6 +522,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Odd Echo**](https://open.kattis.com/problems/oddecho)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Odd_Echo.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Odd_Echo.py)
+#### [**Odd Gnome**](https://open.kattis.com/problems/oddgnome)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Odd_Gnome.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Odd_Gnome.py)
 
 </details>
 
