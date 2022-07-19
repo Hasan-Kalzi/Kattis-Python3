@@ -549,6 +549,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Patuljci**](https://open.kattis.com/problems/patuljci)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Patuljci.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Patuljci.py)
+#### [**Paul Eigon**](https://open.kattis.com/problems/pauleigon)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Paul_Eigon.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Paul_Eigon.py)
 
 </details>
 
