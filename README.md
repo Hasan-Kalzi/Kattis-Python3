@@ -546,6 +546,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Parking**](https://open.kattis.com/problems/parking2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Parking.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Parking.py)
+#### [**Patuljci**](https://open.kattis.com/problems/patuljci)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Patuljci.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Patuljci.py)
 
 </details>
 
