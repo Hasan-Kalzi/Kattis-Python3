@@ -561,6 +561,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Piece of Cake!**](https://open.kattis.com/problems/pieceofcake2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Piece_of_Cake.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Piece_of_Cake.py)
+#### [**Pizza Crust**](https://open.kattis.com/problems/pizza2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pizza_Crust.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pizza_Crust.py)
 
 </details>
 
