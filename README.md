@@ -567,6 +567,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Planina**](https://open.kattis.com/problems/planina)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Planina.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Planina.py)
+#### [**Poker Hand**](https://open.kattis.com/problems/pokerhand)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Poker_Hand.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Poker_Hand.py)
 
 </details>
 
