@@ -85,6 +85,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 82. [Overdraft](https://open.kattis.com/problems/overdraft/statistics) - py2, PY3
 83. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
 84. [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2/statistics) - py2
-85. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-86. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-87. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+85. [Poker Hand](https://open.kattis.com/problems/pokerhand/statistics) - py2
+86. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+87. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+88. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
