@@ -573,6 +573,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Popularity Contest**](https://open.kattis.com/problems/popularitycontest)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Popularity_Contest.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Popularity_Contest.py)
+#### [**Pot**](https://open.kattis.com/problems/pot)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Pot.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Pot.py)
 
 </details>
 
