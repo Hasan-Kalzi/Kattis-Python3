@@ -94,6 +94,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 91. [Rating Problems](https://open.kattis.com/problems/ratingproblems/statistics) - py2, py3
 92. [Rectangle Area](https://open.kattis.com/problems/rectanglearea/statistics) - py2, py3
 93. [Relocation](https://open.kattis.com/problems/relocation/statistics) - py2, py3
-94. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-95. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-96. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+94. [Reverse](https://open.kattis.com/problems/ofugsnuid/statistics) - py2, py3
+95. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+96. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+97. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
