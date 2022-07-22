@@ -632,6 +632,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Relocation**](https://open.kattis.com/problems/relocation)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Relocation.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Relocation.py)
+#### [**Reverse**](https://open.kattis.com/problems/ofugsnuid)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Reverse.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Reverse.py)
 
 </details>
 
