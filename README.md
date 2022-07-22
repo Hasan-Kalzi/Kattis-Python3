@@ -598,6 +598,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Quadrant Selection**](https://open.kattis.com/problems/quadrant)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Quadrant_Selection.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Quadrant_Selection.py)
+#### [**Quality-Adjusted Life-Year**](https://open.kattis.com/problems/qaly)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Quality-Adjusted_Life-Year.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Quality-Adjusted_Life-Year.py)
 
 </details>
 
