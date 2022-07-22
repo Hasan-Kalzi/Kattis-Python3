@@ -585,6 +585,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Prsteni**](https://open.kattis.com/problems/prsteni)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Prsteni.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Prsteni.py)
+#### [**Ptice**](https://open.kattis.com/problems/ptice)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ptice.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ptice.py)
 
 </details>
 
