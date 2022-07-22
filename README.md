@@ -589,9 +589,18 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ptice.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ptice.py)
 
+
 </details>
 
-### Q
+<details>
+    <summary>Q</summary>
+
+#### [**Quadrant Selection**](https://open.kattis.com/problems/quadrant)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Quadrant_Selection.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Quadrant_Selection.py)
+
+</details>
+
 ### R
 
 <details>
