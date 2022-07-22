@@ -1,6 +1,6 @@
 # Pot
 # Solution by Hasan Kalzi 27-09-2020
-# Link to problem i Kattis: https://open.kattis.com/problems/pot
+# Link to problem in Kattis: https://open.kattis.com/problems/pot
 
 import math
 

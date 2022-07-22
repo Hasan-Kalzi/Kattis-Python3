@@ -1,6 +1,6 @@
 # Powers of 2
 # Solution by Hasan Kalzi 21-03-2021
-# Link to problem in https://open.kattis.com/problems/powersof2easy
+# Link to problem in Kattis https://open.kattis.com/problems/powersof2easy
 import sys
 
 n, e = map(int, sys.stdin.readline().split())

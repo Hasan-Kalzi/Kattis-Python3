@@ -1,6 +1,6 @@
 # Provinces and Gold
 # Solution by Hasan Kalzi 16-10-2020
-# Link to problem i Kattis: https://open.kattis.com/problems/provincesandgold
+# Link to problem in Kattis: https://open.kattis.com/problems/provincesandgold
 
 # The input consists of a single test case on a single line, which contains three non-negative integers G, S, C
 # (G+S+C≤5) indicating the number of Golds, Silvers, and Coppers Jake draws in his hand.
