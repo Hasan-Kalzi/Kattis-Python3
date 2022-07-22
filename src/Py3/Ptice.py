@@ -1,6 +1,6 @@
 # Ptice
 # Solution by Hasan Kalzi 21-11-2020
-# Link to problem i Kattis: https://open.kattis.com/problems/ptice
+# Link to problem in Kattis: https://open.kattis.com/problems/ptice
 import sys
 # All the necessary values
 values = [["Adrian", "Bruno", "Goran"],
