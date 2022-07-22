@@ -626,6 +626,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Rating Problems**](https://open.kattis.com/problems/ratingproblems)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Rating_Problems.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Rating_Problems.py)
+#### [**Rectangle Area**](https://open.kattis.com/problems/rectanglearea)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Rectangle_Area.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Rectangle_Area.py)
 
 </details>
 
