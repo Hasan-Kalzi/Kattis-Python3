@@ -638,6 +638,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Reversed Binary Numbers**](https://open.kattis.com/problems/reversebinary)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Reversed_Binary_Numbers.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Reversed_Binary_Numbers.py)
+#### [**Right-of-Way**](https://open.kattis.com/problems/vajningsplikt/en)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Right-of-Way.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Right-of-Way.py)
 
 </details>
 
