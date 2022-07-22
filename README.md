@@ -623,6 +623,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Railroad**](https://open.kattis.com/problems/railroad2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Railroad.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Railroad.py)
+#### [**Rating Problems**](https://open.kattis.com/problems/ratingproblems)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Rating_Problems.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Rating_Problems.py)
 
 </details>
 

@@ -91,6 +91,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 88. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold/statistics) - py2
 89. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly/statistics) - py2
 90. [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet/statistics) - py2
+90. [Rating Problems](https://open.kattis.com/problems/ratingproblems/statistics) - py2, py3
 91. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
 92. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
 93. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
