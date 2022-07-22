@@ -608,9 +608,17 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Quick_Estimates.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Quick_Estimates.py)
 
+
 </details>
 
-### R
+<details>
+    <summary>R</summary>
+
+#### [**R2**](https://open.kattis.com/problems/r2)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/R2.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/R2.py)
+
+</details>
 
 <details>
     <summary>S</summary>
