@@ -98,5 +98,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 95. [Right-of-Way](https://open.kattis.com/problems/vajningsplikt/statistics) - py2, py3
 96. [Roaming Romans](https://open.kattis.com/problems/romans/statistics) - py2, py3
 97. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-98. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-99. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+98. [Scaling Recipes](https://open.kattis.com/problems/recipes/statistics) - py2
+99. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+100. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
