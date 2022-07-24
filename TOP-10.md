@@ -102,5 +102,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 99. [School Spirit](https://open.kattis.com/problems/schoolspirit/statistics) - py2
 100. [Shattered Cake](https://open.kattis.com/problems/shatteredcake/statistics) - py2
 101. [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy/statistics) - py2, py3
-102. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-103. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+102. [Simone](https://open.kattis.com/problems/simone/statistics) - py2, py3
+103. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+104. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
