@@ -644,6 +644,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Riječi**](https://open.kattis.com/problems/rijeci)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Rijeci.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Rijeci.py)
+#### [**Roaming Romans**](https://open.kattis.com/problems/romans)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Roaming_Romans.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Roaming_Romans.py)
 
 </details>
 
