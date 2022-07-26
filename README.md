@@ -707,6 +707,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Soda Slurper**](https://open.kattis.com/problems/sodaslurper)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Soda_Slurper.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Soda_Slurper.py)
+#### [**Sok**](https://open.kattis.com/problems/sok)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Sok.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Sok.py)
 
 </details>
 
