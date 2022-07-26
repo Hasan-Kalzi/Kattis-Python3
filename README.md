@@ -701,6 +701,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Social Distancing**](https://open.kattis.com/problems/socialdistancing2)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_Distancing.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_Distancing.py)
+#### [**Social running**](https://open.kattis.com/problems/socialrunning)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Social_running.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Social_running.py)
 
 </details>
 
