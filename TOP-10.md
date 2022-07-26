@@ -104,6 +104,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 101. [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy/statistics) - py2, py3
 102. [Simone](https://open.kattis.com/problems/simone/statistics) - py2, py3
 103. [Simon Says](https://open.kattis.com/problems/simonsays/statistics) - py2
-104. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-105. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-106. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+104. [SMIL](https://open.kattis.com/problems/smil/statistics) - py2
+105. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+106. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+107. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
