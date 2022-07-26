@@ -108,5 +108,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 105. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
 106. [Social running](https://open.kattis.com/problems/socialrunning/statistics) - py2, py3
 107. [Sok](https://open.kattis.com/problems/sok/statistics) - py2
-108. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-109. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+108. [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers/statistics) - py2
+109. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+110. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
