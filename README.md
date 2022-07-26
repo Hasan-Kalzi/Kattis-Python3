@@ -710,6 +710,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Sok**](https://open.kattis.com/problems/sok)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Sok.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Sok.py)
+#### [**Solving for Carrots**](https://open.kattis.com/problems/carrots)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Solving_for_Carrots.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Solving_for_Carrots.py)
 
 </details>
 
