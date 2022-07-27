@@ -722,6 +722,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Spavanac**](https://open.kattis.com/problems/spavanac)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Spavanac.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Spavanac.py)
+#### [**Speeding**](https://open.kattis.com/problems/speeding)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Speeding.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Speeding.py)
 
 </details>
 
