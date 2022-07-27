@@ -111,5 +111,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 108. [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers/statistics) - py2
 109. [Soylent](https://open.kattis.com/problems/soylent/statistics) - py2
 110. [Speeding](https://open.kattis.com/problems/speeding/statistics) - py2, py3
-111. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-112. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+111. [Spelling Bee](https://open.kattis.com/problems/spellingbee/statistics) - py2, py3
+112. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+113. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2

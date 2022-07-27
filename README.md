@@ -728,6 +728,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Speed Limit**](https://open.kattis.com/problems/speedlimit)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Speed_Limit.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Speed_Limit.py)
+#### [**Spelling Bee**](https://open.kattis.com/problems/spellingbee)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Spelling_Bee.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Spelling_Bee.py)
 
 </details>
 
