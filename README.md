@@ -731,6 +731,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Spelling Bee**](https://open.kattis.com/problems/spellingbee)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Spelling_Bee.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Spelling_Bee.py)
+#### [**Square Peg**](https://open.kattis.com/problems/squarepeg)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Square_Peg.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Square_Peg.py)
 
 </details>
 
