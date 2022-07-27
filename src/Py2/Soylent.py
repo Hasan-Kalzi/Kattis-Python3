@@ -1,11 +1,12 @@
 # Soylent
 # Solution by Hasan Kalzi 29-03-2021
 # Link to problem in https://open.kattis.com/problems/soylent
-import sys
+from __future__ import division
+from sys import stdin, stdout
 
-for _ in range(int(sys.stdin.readline())):
-    i = 0
-    calories = int(sys.stdin.readline())
-    while i * 400 < calories:
-        i += 1
-    sys.stdout.write(str(i)+'\n')
+for _ in range(int(stdin.readline())):
+    bottles = int(stdin.readline())/400
+    if int(bottles) == bottles:
+        stdout.write(str(int(bottles))+'\n')
+    else:
+        stdout.write(str(int(bottles) + 1) + '\n')
