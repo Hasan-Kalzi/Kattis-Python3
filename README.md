@@ -719,6 +719,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Soylent**](https://open.kattis.com/problems/soylent)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Soylent.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Soylent.py)
+#### [**Spavanac**](https://open.kattis.com/problems/spavanac)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Spavanac.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Spavanac.py)
 
 </details>
 
