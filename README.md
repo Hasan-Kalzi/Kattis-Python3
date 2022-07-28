@@ -743,6 +743,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Star Arrangements**](https://open.kattis.com/problems/stararrangements)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Star_Arrangements.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Star_Arrangements.py)
+#### [**Stopwatch**](https://open.kattis.com/problems/stopwatch)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Stopwatch.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Stopwatch.py)
 
 </details>
 
