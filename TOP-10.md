@@ -114,5 +114,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 111. [Spelling Bee](https://open.kattis.com/problems/spellingbee/statistics) - py2, py3
 112. [Square Peg](https://open.kattis.com/problems/squarepeg/statistics) - py2, py3
 113. [Stopwatch](https://open.kattis.com/problems/stopwatch/statistics) - py2, py3
-114. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-115. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+114. [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem/statistics) - py2
+115. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+116. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
