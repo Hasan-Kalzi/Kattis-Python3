@@ -758,6 +758,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Symmetric Order**](https://open.kattis.com/problems/symmetricorder)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Symmetric_Order.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Symmetric_Order.py)
+#### [**Synchronizing Lists**](https://open.kattis.com/problems/synchronizinglists)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Synchronizing_Lists.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Synchronizing_Lists.py)
 
 </details>
 
