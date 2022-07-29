@@ -746,6 +746,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Stopwatch**](https://open.kattis.com/problems/stopwatch)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Stopwatch.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Stopwatch.py)
+#### [**Stuck In A Time Loop**](https://open.kattis.com/problems/timeloop)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Stuck_In_A_Time_Loop.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Stuck_In_A_Time_Loop.py)
 
 </details>
 
