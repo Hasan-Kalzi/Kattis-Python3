@@ -752,6 +752,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Sum Kind of Problem**](https://open.kattis.com/problems/sumkindofproblem)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Sum_Kind_of_Problem.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Sum_Kind_of_Problem.py)
+#### [**Sum Squared Digits Function**](https://open.kattis.com/problems/sumsquareddigits)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Sum_Squared_Digits_Function.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Sum_Squared_Digits_Function.py)
 
 </details>
 
