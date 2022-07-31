@@ -118,5 +118,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 115. [Tai's formula](https://open.kattis.com/problems/taisformula/statistics) - py2
 116. [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2/statistics) - py2
 117. [The Last Problem](https://open.kattis.com/problems/thelastproblem/statistics) - py2
+117. [Tower Construction](https://open.kattis.com/problems/tornbygge/statistics) - py2, py3
 118. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
 119. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
