@@ -767,6 +767,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 <details>
     <summary>T</summary>
 
+#### [**T9 Spelling**](https://open.kattis.com/problems/t9spelling)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/T9_Spelling.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/T9_Spelling.py)
 #### [**Turn It Up!**](https://open.kattis.com/problems/skruop)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Turn_It_Up.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Turn_It_Up.py)
