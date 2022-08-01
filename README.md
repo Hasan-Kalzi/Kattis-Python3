@@ -812,6 +812,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Turn It Up!**](https://open.kattis.com/problems/skruop)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Turn_It_Up.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Turn_It_Up.py)
+#### [**Two-sum**](https://open.kattis.com/problems/twosum)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Two-sum.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Two-sum.py)
 
 </details>
 
