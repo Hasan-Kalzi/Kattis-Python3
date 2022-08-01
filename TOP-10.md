@@ -121,5 +121,6 @@ These are links to problem statics where my name appears on the top 10 list in P
 117. [Tower Construction](https://open.kattis.com/problems/tornbygge/statistics) - py2, py3
 118. [Transit Woes](https://open.kattis.com/problems/transitwoes/statistics) - py2, py3
 119. [Triangle Area](https://open.kattis.com/problems/triarea/statistics) - py2
-120. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-121. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+120. [Triple Texting](https://open.kattis.com/problems/tripletexting/statistics) - py2, py3
+121. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+122. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
