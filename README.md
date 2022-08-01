@@ -818,7 +818,15 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 
 </details>
 
-### U
+<details>
+    <summary>U</summary>
+
+#### [**Ultimate Binary Watch**](https://open.kattis.com/problems/ultimatebinarywatch)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ultimate_Binary_Watch.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ultimate_Binary_Watch.py)
+
+</details>
+
 ### V
 ### W
 ### X
