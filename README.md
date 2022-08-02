@@ -842,9 +842,19 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Volim.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Volim.py)
 
+
 </details>
 
-### W
+<details>
+    <summary>V</summary>
+
+#### [**Weak Vertices**](https://open.kattis.com/problems/weakvertices)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Weak_Vertices.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Weak_Vertices.py)
+
+
+</details>
+
 ### X
 ### Y
 
