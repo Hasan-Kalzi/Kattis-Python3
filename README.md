@@ -833,7 +833,7 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 
 
 <details>
-    <summary>U</summary>
+    <summary>V</summary>
 
 #### [**Video Speedup**](https://open.kattis.com/problems/videospeedup)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Video_Speedup.py)
