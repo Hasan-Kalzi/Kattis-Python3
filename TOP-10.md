@@ -125,4 +125,5 @@ These are links to problem statics where my name appears on the top 10 list in P
 121. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
 122. [Two-sum](https://open.kattis.com/problems/twosum/statistics) - py2
 122. [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3 
-123. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+123. [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
+124. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2

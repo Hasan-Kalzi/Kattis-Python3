@@ -851,6 +851,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Weak Vertices**](https://open.kattis.com/problems/weakvertices)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Weak_Vertices.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Weak_Vertices.py)
+#### [**Which is Greater?**](https://open.kattis.com/problems/whichisgreater)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Which_is_Greater.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Which_is_Greater.py)
 
 
 </details>
