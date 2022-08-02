@@ -828,9 +828,19 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Unlock_Pattern.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Unlock_Pattern.py)
 
+
 </details>
 
-### V
+
+<details>
+    <summary>V</summary>
+
+#### [**Video Speedup**](https://open.kattis.com/problems/videospeedup)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Video_Speedup.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Video_Speedup.py)
+
+</details>
+
 ### W
 ### X
 ### Y
