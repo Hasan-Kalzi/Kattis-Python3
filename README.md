@@ -860,7 +860,7 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 ### X
 
 <details>
-    <summary>Z</summary>
+    <summary>Y</summary>
 
 #### [**Yin and Yang Stones**](https://open.kattis.com/problems/yinyangstones)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Yin_Yang_Stones.py)
