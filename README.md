@@ -824,6 +824,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 #### [**Ultimate Binary Watch**](https://open.kattis.com/problems/ultimatebinarywatch)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Ultimate_Binary_Watch.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ultimate_Binary_Watch.py)
+#### [**Unlock Pattern**](https://open.kattis.com/problems/unlockpattern)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Unlock_Pattern.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Unlock_Pattern.py)
 
 </details>
 
