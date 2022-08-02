@@ -846,7 +846,7 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 </details>
 
 <details>
-    <summary>V</summary>
+    <summary>W</summary>
 
 #### [**Weak Vertices**](https://open.kattis.com/problems/weakvertices)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Weak_Vertices.py)
@@ -855,11 +855,18 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Which_is_Greater.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Which_is_Greater.py)
 
-
 </details>
 
 ### X
-### Y
+
+<details>
+    <summary>Z</summary>
+
+#### [**Yin and Yang Stones**](https://open.kattis.com/problems/yinyangstones)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Yin_Yang_Stones.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Yin_Yang_Stones.py)
+
+</details>
 
 <details>
     <summary>Z</summary>
