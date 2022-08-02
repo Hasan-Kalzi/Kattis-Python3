@@ -871,6 +871,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 <details>
     <summary>Z</summary>
 
+#### [**Zamka**](https://open.kattis.com/problems/zamka)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zamka.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zamka.py)
 #### [**Zoom**](https://open.kattis.com/problems/zoom)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Zoom.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Zoom.py)
