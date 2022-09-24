@@ -50,6 +50,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 47. [Forced Choice](https://open.kattis.com/problems/forcedchoice/statistics) - py2, py3
 48. [FYI](https://open.kattis.com/problems/fyi/statistics) - py2
 49. [GCVWR](https://open.kattis.com/problems/gcvwr/statistics) - py2
+49. [Gene Block](https://open.kattis.com/problems/geneblock/statistics) - py3, py2
 50. [Gerrymandering](https://open.kattis.com/problems/gerrymandering/statistics) - py2
 51. [Goat Rope](https://open.kattis.com/problems/goatrope/statistics) - py2
 52. [Grading](https://open.kattis.com/problems/grading/statistics) - py2, py3
