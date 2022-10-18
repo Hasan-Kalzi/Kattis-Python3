@@ -78,55 +78,56 @@ These are links to problem statics where my name appears on the top 10 list in P
 75. [Lost Lineup](https://open.kattis.com/problems/lostlineup/statistics) - py2
 76. [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum/statistics) - py2
 77. [Magic Trick](https://open.kattis.com/problems/magictrick/statistics) - py2
-78. [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
-79. [Musical Trees](https://open.kattis.com/problems/musicaltrees/statistics) - py2, py3
-80. [NOP](https://open.kattis.com/problems/nop/statistics) - py2, py3
-81. [N-sum](https://open.kattis.com/problems/nsum/statistics) - py2, py3
-82. [Number Fun](https://open.kattis.com/problems/numberfun/statistics) - py2
-83. [Odd Echo](https://open.kattis.com/problems/oddecho/statistics) - py2
-84. [Overdraft](https://open.kattis.com/problems/overdraft/statistics) - py2, PY3
-85. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
-86. [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2/statistics) - py2
-87. [Poker Hand](https://open.kattis.com/problems/pokerhand/statistics) - py2
-88. [Pokechat](https://open.kattis.com/problems/pokechat/statistics) - py2
-89. [Popularity Contest](https://open.kattis.com/problems/popularitycontest/statistics) - py2, py3
-90. [Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy/statistics) - py2
-91. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold/statistics) - py2
-92. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly/statistics) - py2
-93. [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet/statistics) - py2
-94. [Rating Problems](https://open.kattis.com/problems/ratingproblems/statistics) - py2, py3
-95. [Rectangle Area](https://open.kattis.com/problems/rectanglearea/statistics) - py2, py3
-96. [Relocation](https://open.kattis.com/problems/relocation/statistics) - py2, py3
-97. [Reverse](https://open.kattis.com/problems/ofugsnuid/statistics) - py2, py3
-98. [Right-of-Way](https://open.kattis.com/problems/vajningsplikt/statistics) - py2, py3
-99. [Roaming Romans](https://open.kattis.com/problems/romans/statistics) - py2, py3
-100. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
-101. [Scaling Recipes](https://open.kattis.com/problems/recipes/statistics) - py2
-102. [School Spirit](https://open.kattis.com/problems/schoolspirit/statistics) - py2
-103. [Shattered Cake](https://open.kattis.com/problems/shatteredcake/statistics) - py2
-104. [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy/statistics) - py2, py3
-105. [Simone](https://open.kattis.com/problems/simone/statistics) - py2, py3
-106. [Simon Says](https://open.kattis.com/problems/simonsays/statistics) - py2
-107. [SMIL](https://open.kattis.com/problems/smil/statistics) - py2
-108. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
-109. [Social running](https://open.kattis.com/problems/socialrunning/statistics) - py2, py3
-110. [Sok](https://open.kattis.com/problems/sok/statistics) - py2
-111. [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers/statistics) - py2
-112. [Soylent](https://open.kattis.com/problems/soylent/statistics) - py2
-113. [Speeding](https://open.kattis.com/problems/speeding/statistics) - py2, py3
-114. [Spelling Bee](https://open.kattis.com/problems/spellingbee/statistics) - py2, py3
-115. [Square Peg](https://open.kattis.com/problems/squarepeg/statistics) - py2, py3
-116. [Stopwatch](https://open.kattis.com/problems/stopwatch/statistics) - py2, py3
-117. [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem/statistics) - py2
-118. [Tai's formula](https://open.kattis.com/problems/taisformula/statistics) - py2
-119. [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2/statistics) - py2
-120. [The Last Problem](https://open.kattis.com/problems/thelastproblem/statistics) - py2
-121. [Tower Construction](https://open.kattis.com/problems/tornbygge/statistics) - py2, py3
-122. [Transit Woes](https://open.kattis.com/problems/transitwoes/statistics) - py2, py3
-123. [Triangle Area](https://open.kattis.com/problems/triarea/statistics) - py2
-124. [Triple Texting](https://open.kattis.com/problems/tripletexting/statistics) - py2, py3
-125. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
-126. [Two-sum](https://open.kattis.com/problems/twosum/statistics) - py2
-127. [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3
-128. [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
-129. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
+78. [Making A Meowth](https://open.kattis.com/problems/makingameowth/statistics) - py2
+79. [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
+80. [Musical Trees](https://open.kattis.com/problems/musicaltrees/statistics) - py2, py3
+81. [NOP](https://open.kattis.com/problems/nop/statistics) - py2, py3
+82. [N-sum](https://open.kattis.com/problems/nsum/statistics) - py2, py3
+83. [Number Fun](https://open.kattis.com/problems/numberfun/statistics) - py2
+84. [Odd Echo](https://open.kattis.com/problems/oddecho/statistics) - py2
+85. [Overdraft](https://open.kattis.com/problems/overdraft/statistics) - py2, PY3
+86. [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking/statistics) - py2
+87. [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2/statistics) - py2
+88. [Poker Hand](https://open.kattis.com/problems/pokerhand/statistics) - py2
+89. [Pokechat](https://open.kattis.com/problems/pokechat/statistics) - py2
+90. [Popularity Contest](https://open.kattis.com/problems/popularitycontest/statistics) - py2, py3
+91. [Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy/statistics) - py2
+92. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold/statistics) - py2
+93. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly/statistics) - py2
+94. [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet/statistics) - py2
+95. [Rating Problems](https://open.kattis.com/problems/ratingproblems/statistics) - py2, py3
+96. [Rectangle Area](https://open.kattis.com/problems/rectanglearea/statistics) - py2, py3
+97. [Relocation](https://open.kattis.com/problems/relocation/statistics) - py2, py3
+98. [Reverse](https://open.kattis.com/problems/ofugsnuid/statistics) - py2, py3
+99. [Right-of-Way](https://open.kattis.com/problems/vajningsplikt/statistics) - py2, py3
+100. [Roaming Romans](https://open.kattis.com/problems/romans/statistics) - py2, py3
+101. [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe/statistics) - py2
+102. [Scaling Recipes](https://open.kattis.com/problems/recipes/statistics) - py2
+103. [School Spirit](https://open.kattis.com/problems/schoolspirit/statistics) - py2
+104. [Shattered Cake](https://open.kattis.com/problems/shatteredcake/statistics) - py2
+105. [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy/statistics) - py2, py3
+106. [Simone](https://open.kattis.com/problems/simone/statistics) - py2, py3
+107. [Simon Says](https://open.kattis.com/problems/simonsays/statistics) - py2
+108. [SMIL](https://open.kattis.com/problems/smil/statistics) - py2
+109. [Social Distancing](https://open.kattis.com/problems/socialdistancing2/statistics) - py2
+110. [Social running](https://open.kattis.com/problems/socialrunning/statistics) - py2, py3
+111. [Sok](https://open.kattis.com/problems/sok/statistics) - py2
+112. [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers/statistics) - py2
+113. [Soylent](https://open.kattis.com/problems/soylent/statistics) - py2
+114. [Speeding](https://open.kattis.com/problems/speeding/statistics) - py2, py3
+115. [Spelling Bee](https://open.kattis.com/problems/spellingbee/statistics) - py2, py3
+116. [Square Peg](https://open.kattis.com/problems/squarepeg/statistics) - py2, py3
+117. [Stopwatch](https://open.kattis.com/problems/stopwatch/statistics) - py2, py3
+118. [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem/statistics) - py2
+119. [Tai's formula](https://open.kattis.com/problems/taisformula/statistics) - py2
+120. [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2/statistics) - py2
+121. [The Last Problem](https://open.kattis.com/problems/thelastproblem/statistics) - py2
+122. [Tower Construction](https://open.kattis.com/problems/tornbygge/statistics) - py2, py3
+123. [Transit Woes](https://open.kattis.com/problems/transitwoes/statistics) - py2, py3
+124. [Triangle Area](https://open.kattis.com/problems/triarea/statistics) - py2
+125. [Triple Texting](https://open.kattis.com/problems/tripletexting/statistics) - py2, py3
+126. [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
+127. [Two-sum](https://open.kattis.com/problems/twosum/statistics) - py2
+128. [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3
+129. [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
+130. [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
