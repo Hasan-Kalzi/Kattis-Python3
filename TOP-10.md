@@ -80,6 +80,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Magic Trick](https://open.kattis.com/problems/magictrick/statistics) - py2
 * [Making A Meowth](https://open.kattis.com/problems/makingameowth/statistics) - py2
 * [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
+* [Mult!](https://open.kattis.com/problems/mult/statistics) - py2, py3
 * [Musical Trees](https://open.kattis.com/problems/musicaltrees/statistics) - py2, py3
 * [NOP](https://open.kattis.com/problems/nop/statistics) - py2, py3
 * [N-sum](https://open.kattis.com/problems/nsum/statistics) - py2, py3
@@ -131,4 +132,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3
 * [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
 * [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
-### Total: 130
+### Total: 131
