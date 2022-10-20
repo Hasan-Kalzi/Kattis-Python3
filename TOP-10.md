@@ -68,6 +68,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition/statistics) - py2
 * [Janitor Troubles](https://open.kattis.com/problems/janitortroubles/statistics) - py2
 * [Jazz it Up!](https://open.kattis.com/problems/jazzitup/statistics) - py2
+* [Jewelry Box](https://open.kattis.com/problems/jewelrybox/statistics) - py2
 * [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam/statistics) - py2
 * [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin/statistics) - py2
 * [Knot Knowledge](https://open.kattis.com/problems/knotknowledge/statistics) - py2, py3
