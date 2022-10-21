@@ -60,6 +60,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Greetings!](https://open.kattis.com/problems/greetings2/statistics) - py2
 * [Hailstone Sequences](https://open.kattis.com/problems/hailstone2/statistics) - py2
 * [Hangman](https://open.kattis.com/problems/hangman/statistics) - py2
+* [Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine/statistics) - py2
 * [Homework](https://open.kattis.com/problems/heimavinna/statistics) - py2
 * [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent/statistics) - py2
 * [Hot Springs](https://open.kattis.com/problems/hotsprings/statistics) - py2, py3
@@ -133,4 +134,4 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3
 * [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
 * [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
-### Total: 131
+### Total: 132
