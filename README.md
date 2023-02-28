@@ -254,6 +254,9 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 <details>
     <summary>F</summary>
 
+#### [**Fading Wind**](https://open.kattis.com/problems/fadingwind)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Fading_Wind.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Fading_Wind.py)
 #### [**Faktor**](https://open.kattis.com/problems/faktor)
 * [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/Faktor.py)
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Faktor.py)
