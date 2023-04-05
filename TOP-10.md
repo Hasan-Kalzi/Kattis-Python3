@@ -82,6 +82,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum/statistics) - py2
 * [Magic Trick](https://open.kattis.com/problems/magictrick/statistics) - py2
 * [Making A Meowth](https://open.kattis.com/problems/makingameowth/statistics) - py2
+* [Metronome](https://open.kattis.com/problems/metronome/statistics) - py2
 * [Missing Numbers](https://open.kattis.com/problems/missingnumbers/statistics) - py2
 * [Mult!](https://open.kattis.com/problems/mult/statistics) - py2, py3
 * [Musical Trees](https://open.kattis.com/problems/musicaltrees/statistics) - py2, py3
