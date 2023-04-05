@@ -21,6 +21,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores/statistics) - py2
 * [Chanukah Challenge](https://open.kattis.com/problems/chanukah/statistics) - py2
 * [Cinema Crowds 2](https://open.kattis.com/problems/cinema2/statistics) - py2 , py3
+* [Class Field Trip](https://open.kattis.com/problems/classfieldtrip/statistics) - py2
 * [Code to Save Lives](https://open.kattis.com/problems/codetosavelives/statistics) - py2 , py3
 * [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo/statistics) - py2
 * [Contest Struggles](https://open.kattis.com/problems/conteststruggles/statistics) - py2 , py3
