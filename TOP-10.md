@@ -135,6 +135,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Turn It Up!](https://open.kattis.com/problems/skruop/statistics) - py2
 * [Two-sum](https://open.kattis.com/problems/twosum/statistics) - py2
 * [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch/statistics) - py2, py3
+* [Undead or Alive](https://open.kattis.com/problems/undeadoralive/statistics) - py2
 * [Which is Greater?](https://open.kattis.com/problems/whichisgreater/statistics) - py2
 * [Zoom](https://open.kattis.com/problems/astrologicalsign/statistics) - py2
 ### Total: 132
