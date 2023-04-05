@@ -30,6 +30,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Course Scheduling](https://open.kattis.com/problems/coursescheduling/statistics) - py2
 * [CPR Number](https://open.kattis.com/problems/cprnummer/statistics) - py2 , py3
 * [Cut in Line](https://open.kattis.com/problems/cutinline/statistics) - py2 , py3
+* [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity/statistics) - py2
 * [Damaged Equation](https://open.kattis.com/problems/damagedequation/statistics) - py2 , py3
 * [Detailed Differences](https://open.kattis.com/problems/detaileddifferences/statistics) - py2
 * [Digit Product](https://open.kattis.com/problems/sifferprodukt/statistics) - py2, py3
