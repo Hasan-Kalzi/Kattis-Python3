@@ -1,10 +1,11 @@
-# A New Alphabet
-# Solution by Hasan Kalzi 07-04-2021
-# Link to problem in https://open.kattis.com/problems/anewalphabet
+# import the necessary module to read from and write to the standard input and output streams
 from sys import stdin, stdout
 
+# loop over each character in the input string
 for char in stdin.readline():
+    # convert the character to its corresponding ASCII code
     ascii_char = ord(char)
+    # check if the ASCII code corresponds to any of the characters to be replaced, and write the replacement character to standard output
     if ascii_char == 65 or ascii_char == 97:
         stdout.write('@')
     elif ascii_char == 66 or ascii_char == 98:
@@ -58,4 +59,5 @@ for char in stdin.readline():
     elif ascii_char == 90 or ascii_char == 122:
         stdout.write('2')
     else:
+        # if the character is not in the list of characters to be replaced, write it to standard output as is
         stdout.write(char)

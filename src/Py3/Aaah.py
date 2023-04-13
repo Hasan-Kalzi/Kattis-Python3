@@ -3,7 +3,6 @@
 # Link to problem in https://open.kattis.com/problems/aaah
 from sys import stdin, stdout
 
-if len(stdin.readline())< len(stdin.readline()):
-    stdout.write("no")
-else:
-    stdout.write("go")
+# Reading the input from standard input using input() and checking the length of input strings
+stdout.write("no" if len(stdin.readline()) < len(stdin.readline()) else "go")
+

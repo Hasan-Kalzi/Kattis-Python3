@@ -1,12 +1,19 @@
-# A Rational Sequence 2
-# Solution by Hasan Kalzi 27-08-2021
-# Link to problem in Kattis: https://open.kattis.com/problems/rationalsequence2
-from sys import stdin, stdout
+# Importing the necessary modules
+from sys import stdin,stdout
 
+# Loop over the number of test cases
 for _ in range(int(stdin.readline())):
-    k, pq = stdin.readline().split()
-    p, q = map(int, pq.split('/'))
+
+    # Reading the input values
+    k,pq = stdin.readline().split()
+
+    # Converting the input into integers
+    p,q = map(int,pq.split('/'))
+
+    # Initializing the answer string
     ans = ''
+
+    # While loop to compute the binary representation of the given rational number
     while p + q > 2:
         if p > q:
             p -= q
@@ -14,5 +21,10 @@ for _ in range(int(stdin.readline())):
         else:
             q -= p
             ans += '0'
+
+    # Appending the final bit to the answer string
     ans += '1'
-    stdout.write(k + ' ' + str(int(ans[::-1], 2)) + '\n')
+
+    # Writing the output to stdout
+    stdout.write(k + ' ' + str(int(ans[::-1],2)) + '\n')
+

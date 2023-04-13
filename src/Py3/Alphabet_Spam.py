@@ -1,21 +1,27 @@
 # Alphabet Spam
 # Solution by Hasan Kalzi 23-10-2020
 # Link to problem in Kattis: https://open.kattis.com/problems/alphabetspam
+
+# Importing standard input and output library from sys module
 from sys import stdin, stdout
 
-white_space = 0
-small_alpha = 0
-big_alpha = 0
-symbols = 0
-sentence = stdin.readline().replace('\n', '')
+# Read input from standard input and remove trailing newline
+sentence = stdin.readline().rstrip()
+
+# Initialize counters
+num_chars = len(sentence)
+num_white_space, num_small_alpha, num_big_alpha, num_symbols = 0, 0, 0, 0
+
+# Iterate over each character in the sentence
 for character in sentence:
     if character.islower():
-        small_alpha += 1
+        num_small_alpha += 1
     elif character.isupper():
-        big_alpha += 1
+        num_big_alpha += 1
     elif character == "_":
-        white_space += 1
+        num_white_space += 1
     else:
-        symbols += 1
-stdout.write(str(white_space / len(sentence)) + '\n' + str(small_alpha / len(sentence))
-                 + '\n' + str(big_alpha / len(sentence)) + '\n' + str(symbols / len(sentence)))
+        num_symbols += 1
+
+# Calculate ratios using divmod() and write to standard output
+stdout.write("{:.15f}\n{:.15f}\n{:.15f}\n{:.15f}".format(*divmod(num_white_space, num_chars), *divmod(num_small_alpha, num_chars), *divmod(num_big_alpha, num_chars), *divmod(num_symbols, num_chars)))

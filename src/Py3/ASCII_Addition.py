@@ -1,8 +1,14 @@
 # ASCII Addition
 # Solution by Hasan Kalzi 25-06-2021
 # Link to problem in Kattis: https://open.kattis.com/problems/asciiaddition
+# ASCII Addition
+# Solution by Hasan Kalzi 25-06-2021
+# Link to problem in Kattis: https://open.kattis.com/problems/asciiaddition
+
+# Importing standard input/output
 from sys import stdin, stdout
 
+# String representation of each digit and plus sign in ASCII art
 zero = "xxxxx\nx...x\nx...x\nx...x\nx...x\nx...x\nxxxxx"
 one = "....x\n....x\n....x\n....x\n....x\n....x\n....x"
 two = "xxxxx\n....x\n....x\nxxxxx\nx....\nx....\nxxxxx"
@@ -14,19 +20,30 @@ seven = "xxxxx\n....x\n....x\n....x\n....x\n....x\n....x"
 eight = "xxxxx\nx...x\nx...x\nxxxxx\nx...x\nx...x\nxxxxx"
 nine = "xxxxx\nx...x\nx...x\nxxxxx\n....x\n....x\nxxxxx"
 plus = ".....\n..x..\n..x..\nxxxxx\n..x..\n..x..\n....."
-numbers = ["", ""]
+
+# An empty list to store digit and plus sign strings
 operations = []
+# Reading the input line containing digits and plus sign
 line = stdin.readline().strip()
+# Calculating the number of digits
 x = int(len(line) / 6)
+# Adding each digit or plus sign to operations list
 for i in range(x + 6):
     operations.append("")
     operations[i] += (line[(i * 6):(i * 6) + 5] + "\n")
 
+# Reading each line of digit strings
 for i in range(6):
     line = stdin.readline().strip()
+    # Adding each digit or plus sign to operations list
     for k in range(x + 6):
         operations[k] += (line[(k * 6):(k * 6) + 5] + "\n")
+
+# Flag to check if the addition operation is being performed
 switch = 0
+# String representation of each number
+numbers = ["", ""]
+# Converting each digit string to its corresponding integer value
 for element in operations:
     if element.strip() == plus:
         switch = 1
@@ -50,6 +67,8 @@ for element in operations:
         numbers[switch] += "8"
     elif element.strip() == nine:
         numbers[switch] += "9"
+
+# Adding the two integers
 answer = int(numbers[0]) + int(numbers[1])
 output = ""
 
