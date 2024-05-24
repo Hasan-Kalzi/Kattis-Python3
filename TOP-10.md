@@ -105,6 +105,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet/statistics) - py2
 * [Rating Problems](https://open.kattis.com/problems/ratingproblems/statistics) - py2, py3
 * [Rectangle Area](https://open.kattis.com/problems/rectanglearea/statistics) - py2, py3
+* [Reduplikation](https://open.kattis.com/problems/reduplikation/statistics) - py2
 * [Relocation](https://open.kattis.com/problems/relocation/statistics) - py2, py3
 * [Reverse](https://open.kattis.com/problems/ofugsnuid/statistics) - py2, py3
 * [Right-of-Way](https://open.kattis.com/problems/vajningsplikt/statistics) - py2, py3
