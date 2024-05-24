@@ -11,6 +11,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Average Character](https://open.kattis.com/problems/averagecharacter/statistics) - py2 , py3
 * [Avion](https://open.kattis.com/problems/avion/statistics) - py2
 * [Bela](https://open.kattis.com/problems/bela/statistics) - py2
+* [BergMál](https://open.kattis.com/problems/bergmal/statistics) - py2
 * [Betting](https://open.kattis.com/problems/betting/statistics) - py2
 * [Bluetooth](https://open.kattis.com/problems/bluetooth/statistics) - py2
 * [Boat Parts](https://open.kattis.com/problems/boatparts/statistics) - py2
