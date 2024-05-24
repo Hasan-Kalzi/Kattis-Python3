@@ -954,3 +954,14 @@ Solutions for Kattis problems in Python 3 and Python 2 languages.
 * [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/Ostgotska.py)
 
 </details>
+
+
+<details>
+    <summary>Á</summary>
+
+#### [**Á leið í bíó**](https://open.kattis.com/problems/aleidibio/en)
+* [Solution in PY3](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py3/%C3%81_lei%C3%B0_%C3%AD_b%C3%AD%C3%B3.py)
+* [Solution in PY2](https://github.com/Hasan-Kalzi/Kattis-Python3/blob/main/src/Py2/%C3%81_lei%C3%B0_%C3%AD_b%C3%AD%C3%B3.py)
+
+</details>
+
