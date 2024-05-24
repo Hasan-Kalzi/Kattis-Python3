@@ -81,6 +81,7 @@ These are links to problem statics where my name appears on the top 10 list in P
 * [Last Minute](https://open.kattis.com/problems/lastminute/statistics) - py2, py3
 * [Loo Rolls](https://open.kattis.com/problems/loorolls/statistics) - py2
 * [Lost Lineup](https://open.kattis.com/problems/lostlineup/statistics) - py2
+* [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir/statistics) - py2
 * [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum/statistics) - py2
 * [Magic Trick](https://open.kattis.com/problems/magictrick/statistics) - py2
 * [Making A Meowth](https://open.kattis.com/problems/makingameowth/statistics) - py2
